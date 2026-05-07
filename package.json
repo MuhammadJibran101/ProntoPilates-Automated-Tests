@@ -1,0 +1,23 @@
+{
+  "name": "testplaywright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.1",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "google-spreadsheet": "^4.1.4",
+    "luxon": "^3.7.2",
+    "playwright": "^1.49.1"
+  }
+}
